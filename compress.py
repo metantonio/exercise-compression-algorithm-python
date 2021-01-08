@@ -8,7 +8,7 @@ symbols = {
     "practicality"  :   '😐',
     "better"        :   '🤔',
     "than"          :   '😘',
-    "Although"      :   "🥺",
+    "Although"      :   "😌",
 }
 
 def compress(content):
@@ -17,9 +17,8 @@ def compress(content):
     a continuación se lee la cadena de texto y se reemplaza con cada
     valor del diccionario
     """
-    for key, symbol in symbols.items():
-        #content=content.replace(key,symbol)
-        compressed_content = content.replace(key,symbol)
+    for key, emoji in symbols.items():
+        compressed_content = content.replace(key,emoji)
     print(compressed_content)
    
     return compressed_content
