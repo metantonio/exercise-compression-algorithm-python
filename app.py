@@ -16,7 +16,7 @@ _decompressed = decompress(_compressed) # calling the decompression algorithm
 
 # save the compressed version of the document
 f = open("data/compressed.txt","w+")
-f.write(compress(content))
+f.write(_compressed)
 f.close()
 
 # make sure source matches the decompressed (to avoid data loss)
