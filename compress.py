@@ -4,11 +4,11 @@ import re
 
 symbols = {
 #   key             :   symbols[key]
-    "implementation":   "😫",
-    "practicality"  :   '😐',
-    "better"        :   '🤔',
-    "than"          :   '😘',
-    "Although"      :   "😌",
+    "implementation":   "21",
+    "practicality"  :   '22',
+    "better"        :   '23',
+    "than"          :   '34',
+    "Although"      :   "25",
 }
 
 def compress(content):

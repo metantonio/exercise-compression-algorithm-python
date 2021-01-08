@@ -9,7 +9,7 @@ def decompress(compressed_content):
     for key, symbol in symbols.items():
         #content=content.replace(key,symbol)
         decompressed_content = compressed_content.replace(symbol,key)
-    print(decompressed_content)
+    #print(decompressed_content)
     
-    return compressed_content
+    return decompressed_content
     
