@@ -9,6 +9,11 @@ symbols = {
     "better"        :   '23',
     "than"          :   '34',
     "Although"      :   '56',
+    "one—obvious"   :   "57",
+    "explain"       :   "31",
+    "is"            :   "0",
+    "idea—let's"    :   "70",
+    "unless"        :   "40"
 }
 
 def compress(content):

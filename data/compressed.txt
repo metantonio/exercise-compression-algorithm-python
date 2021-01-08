@@ -1,9 +1,9 @@
-Beautiful is 23 34 ugly.
-Explicit is 23 34 implicit.
-Simple is 23 34 complex.
-Complex is 23 34 complicated.
-Flatis 23 34 nested.
-Sparse is 23 34 dense.
+Beautiful 0 23 34 ugly.
+Explicit 0 23 34 implicit.
+Simple 0 23 34 complex.
+Complex 0 23 34 complicated.
+Flat0 23 34 nested.
+Sparse 0 23 34 dense.
 Readability counts.
 Special cases aren't special enough to break the rules.
 56 22 beats purity.
@@ -11,9 +11,9 @@ Errors should never pass silently.
 Unless explicitly silenced.
 In the face of ambiguity, refuse the temptation to guess.
 There should be one—and preferably only one—obvious way to do it.
-56 that way may not be obvious at first unless you're Dutch.
-Now is 23 34 never.
-56 never is often 23 34 right now.[n 1]
-If the 21 is hard to explain, it's a bad idea.
-If the 21 is easy to explain, it may be a good idea.
+56 that way may not be obvious at first 40 you're Dutch.
+Now 0 23 34 never.
+56 never 0 often 23 34 right now.[n 1]
+If the 21 0 hard to 31, it's a bad idea.
+If the 21 0 easy to 31, it may be a good idea.
 Namespaces are one honking great idea—let's do more of those!
